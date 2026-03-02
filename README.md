@@ -37,13 +37,27 @@ Der Fokus lag dabei auf:
 
 ## Inhaltsverzeichnis
 
-* Funktionalitäten
-* Designkonzept
-* Technologiestack
-* API-Dokumentation
-* Entwicklung
-* Lizenz
-* Kontakt & Support
+- [Projektübersicht](#projektübersicht)
+- [Preview](#preview)
+- [Funktionalitäten](#funktionalitäten)
+  - [Responsive Design](#responsive-design)
+  - [SEO-Optimierung](#seo-optimierung)
+  - [Online-Reservierungssystem](#online-reservierungssystem)
+  - [Performance & Usability](#performance--usability)
+- [Designkonzept](#designkonzept)
+- [Technologiestack](#technologiestack)
+- [API-Dokumentation](#api-dokumentation)
+- [Entwicklung](#entwicklung)
+- [Lizenz](#lizenz)
+- [Kontakt & Support](#kontakt--support)
+
+**Unterseiten**
+
+- [Landeseite](seiten/landeseite.md)
+- [Über Uns](seiten/überuns.md)
+- [Speisekarte](seiten/speisekarte.md)
+- [Galerie](seiten/galerie.md)
+- [Reservieren](seiten/reservieren.md)
 
 ---
 
